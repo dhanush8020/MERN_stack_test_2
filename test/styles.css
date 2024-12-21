@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+}
+header, footer {
+    background-color: #343a40;
+    color: white;
+}
+.container {
+    max-width: 800px;
+    margin: auto;
+}
+.card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
